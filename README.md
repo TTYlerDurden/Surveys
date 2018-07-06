@@ -31,7 +31,7 @@ These scripts utilize system native scripting languages to determine OS/Distro/K
 			Include distro checks, startup checks, and logging checks.
 	
 	-d		When -v is specified, this sets the logging since time to be checked against
-			the tiem specified VS the time the survey was ran. 
+			the time specified VS the time the survey was ran. 
 			Time is entered in 24 hour clock time.
   
 ### TASK LIST:
