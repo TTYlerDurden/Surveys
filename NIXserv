@@ -8,13 +8,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 #
-# ------------------------- [ REFERENCES } -------------------------
-#
-# https://github.com/dylanaraps/neofetch/blob/master/neofetch
-# https://github.com/rebootuser/LinEnum/blob/master/LinEnum.sh
-#
-# ------------------------------------------------------------------
-#
+
 
 
 version="1.0"
