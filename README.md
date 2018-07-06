@@ -8,7 +8,7 @@ These scripts utilize system native scripting languages to determine OS/Distro/K
 ## NIXserv
 
 ### USAGE:
-  NIXserv.sh -b/s/v -d 'YYYY-MM-DD HH:MM:SS' -o /<path>/<name>.txt 
+  	NIXserv.sh -b/s/v -d 'YYYY-MM-DD HH:MM:SS' -o /<path>/<name>.txt 
 
 ### DESCRIPTION:
 	NIXserv is a command line utility written to automate host survey and enumeration.
